@@ -1,6 +1,14 @@
-
-
-
+.menu-bar a {
+  list-style: none;
+  color: white;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 12px 16px;
+  margin: 0 8px;
+  position: relative;
+  cursor: pointer;
+  white-space: nowrap;
+}
 .menu-bar {
   border-radius: 25px;
   height: -webkit-fit-content;
