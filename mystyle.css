@@ -1,12 +1,3 @@
-
-
-body {
-  height: 100vh;
-  margin: 0;
-  display: flex;
-  justify-content: center;
-}
-
 .menu-bar {
   border-radius: 25px;
   height: -webkit-fit-content;
