@@ -220,6 +220,9 @@ position:sticky;
 .nav ul li:nth-child(7){
   transition-delay: 10ms;
 }
+.nav ul li:nth-child(8){
+  transition-delay: 5ms;
+}
 .nav ul li a{
   font-family: 'Montserrat', sans-serif;
   font-size: 6vh;
@@ -283,7 +286,9 @@ position:sticky;
 .menu-icon:checked ~ .nav ul li:nth-child(7){
   transition-delay: 1880ms;
 }
-
+.menu-icon:checked ~ .nav ul li:nth-child(8){
+  transition-delay: 1960ms;
+}
 .logo {
 	position: fixed;
 	top: 60px;
